@@ -50,17 +50,32 @@ h3{
 border: 1px solid black;
 width: 78%;
 display:table-header-group;
-padding-left: 25px;
 font-size: 30px;
 font-family: Arial, Helvetica, sans-serif;
 color: #555;
 font-weight: bold;
-background-color: #ffeaa7;
 
     
 }
 .list-of-things{
 list-style: none;
+padding: 0%;
+margin: 0%;
+}
+.t1{
+    background-color: azure;
+}
+.t2{
+    background-color:aquamarine;
+}
+.t3{
+    background-color:aqua;
+}
+.t4{
+    background-color:blue;
+}
+.t5{
+    background-color:darkblue;
 }
 
 
